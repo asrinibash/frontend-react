@@ -31,9 +31,19 @@ import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
 import bolt from '../assets/bolt.png';
-import nb from '../assets/nb.png';
+// import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
+
+import asrinibash from '../assets/asrinibash.png'
+import freelancer from '../assets/freelancer.png'
+import bg from '../assets/bg.png'
+import landing_Com from '../assets/landing_Com.png'
+import landing_Com_min from '../assets/landing_Com-min.jpg'
+import gmail from '../assets/gmail.png'
+import e_com from '../assets/e_com.png'
+import me from '../assets/me.jpg'
+
 
 export default {
   email,
@@ -66,7 +76,15 @@ export default {
   amazon,
   asus,
   bolt,
-  nb,
+  
   skype,
   spotify,
+  asrinibash,
+  freelancer,
+  bg,
+  landing_Com,
+  landing_Com_min,
+  gmail,
+  e_com,
+  me
 };
